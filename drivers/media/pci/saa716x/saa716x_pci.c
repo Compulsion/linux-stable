@@ -1,5 +1,4 @@
 #include <asm/io.h>
-#include <asm/pgtable.h>
 #include <asm/page.h>
 #include <linux/kmod.h>
 #include <linux/vmalloc.h>
